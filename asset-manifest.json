@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robocards/static/css/main.35814a79.chunk.css",
+    "main.js": "/robocards/static/js/main.cf7164cb.chunk.js",
+    "main.js.map": "/robocards/static/js/main.cf7164cb.chunk.js.map",
+    "runtime-main.js": "/robocards/static/js/runtime-main.0e4dddc9.js",
+    "runtime-main.js.map": "/robocards/static/js/runtime-main.0e4dddc9.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robocards/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.13050bae.chunk.js": "/robocards/static/js/2.13050bae.chunk.js",
+    "static/js/2.13050bae.chunk.js.map": "/robocards/static/js/2.13050bae.chunk.js.map",
+    "static/js/3.5caa46e7.chunk.js": "/robocards/static/js/3.5caa46e7.chunk.js",
+    "static/js/3.5caa46e7.chunk.js.map": "/robocards/static/js/3.5caa46e7.chunk.js.map",
+    "index.html": "/robocards/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robocards/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.35814a79.chunk.css.map": "/robocards/static/css/main.35814a79.chunk.css.map",
+    "static/js/2.13050bae.chunk.js.LICENSE.txt": "/robocards/static/js/2.13050bae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robocards/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e4dddc9.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.13050bae.chunk.js",
+    "static/css/main.35814a79.chunk.css",
+    "static/js/main.cf7164cb.chunk.js"
+  ]
+}
